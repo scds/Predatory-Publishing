@@ -3,7 +3,7 @@ layout: default
 title: Learn More
 nav_order: 4
 ---
-## More Info
+## Learn More
 
 Want to learn more about predatory publishing? Neera Bhatnagar and Olga Perkovic recommend the following articles, some of which were briefly mentioned in the workshop.
 
