@@ -3,7 +3,9 @@ layout: default
 title: Learn More
 nav_order: 4
 ---
-## More Info 
+## More Info
+
+Want to learn more about predatory publishing? Neera Bhatnagar and Olga Perkovic recommend the following articles, some of which were briefly mentioned in the workshop.
 
 - Cobey KD, Grudniewicz A, Lalu MM, et al. "Knowledge and motivations of researchers publishing in presumed predatory journals: a survey." BMJ Open 2019;9:e026516. DOI: [https://bmjopen.bmj.com/content/9/3/e026516](https://bmjopen.bmj.com/content/9/3/e026516)
 
