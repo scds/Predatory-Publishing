@@ -10,7 +10,7 @@ nav_order: 3
 
 View the original video file [here](https://echo360.ca/media/414bfe00-215e-4887-a12d-a7d37babf2d3/public).
 
-Our presenters, Neera Bhatnagar and Olga Perkovic, mention the following resources in their talk:
+Our co-presenters, Neera Bhatnagar and Olga Perkovic, mention the following resources in their talk:
 
 - McMaster LibGuide on [“How to How To Avoid Predatory Publishers and Conferences”](https://libguides.mcmaster.ca/predatorypublishing)
 
