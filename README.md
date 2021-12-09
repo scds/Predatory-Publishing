@@ -1,4 +1,5 @@
 Predatory Publishing
+
 Materials for the DMDS workshop: Predatory Publishing in the Era of Open Knowledge: Reducing the Odds of Falling Prey 
 
 This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/Predatory-Publishing/) with GitHub Pages   
