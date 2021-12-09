@@ -5,15 +5,11 @@ description: SCDS Do More with Digital Scholarship workshop series
 nav_order: 1
 ---
 
-<!-- Edit the content below for the workshop in question. Once you're ready to publish, remove the comment characters e.g. "<!--" at the start and end -->
+<img src="assets/img/PredPubEVENT-library-news-events.png" alt="Workshop Title Slide" width="720">
 
-<!--
-<img src="assets/img/dmds-tableau.png" alt="Workshop Title Slide" width="720">
+# Welcome to Predatory Publishing in the Era of Open Knowledge: Reducing the Odds of Falling Prey
 
-# Welcome to Data Visualization with Tableau. 
+Thinking about where to publish?  Do you receive random invitations to submit your work for publications? Don’t get caught publishing in a questionable journal!  This session will provide an overview of what predatory journals are and tips on how to avoid them.  We will also include suggestions on how to avoid predatory conferences. 
 
-You might not think of numbers and locations as Humanities data, but it all depends on how you use them! Working with numeric and spatial data, you will learn how to create visualizations in [Tableau](https://www.tableau.com/).
-
-Proceed to the [Preparation](preparation) page to get started.
--->
+Proceed to the [Recording](preparation) page to get started.
 
