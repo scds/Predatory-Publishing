@@ -10,6 +10,8 @@ nav_order: 3
 
 View the original video file [here](https://echo360.ca/media/414bfe00-215e-4887-a12d-a7d37babf2d3/public).
 
+Please note that at 40:57, Neera says "predatory publishing" when she is actually referring to "predatory conferences."
+
 Our co-presenters, Neera Bhatnagar and Olga Perkovic, mention the following resources in their talk:
 
 - McMaster LibGuide on [“How to How To Avoid Predatory Publishers and Conferences”](https://libguides.mcmaster.ca/predatorypublishing)
@@ -22,7 +24,6 @@ Our co-presenters, Neera Bhatnagar and Olga Perkovic, mention the following reso
 
 - The [DOAJ](https://doaj.org/) (Directory of Open Access Journals)
 
-- List of [misleading and fake metrics](https://predatoryjournals.com/metrics/)
 
 
 For additional sources, view the [Learn More](learn-more) page. 
