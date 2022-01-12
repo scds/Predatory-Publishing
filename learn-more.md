@@ -9,6 +9,8 @@ Want to learn more about predatory publishing? Our co-presenters Neera Bhatnagar
 
 Website: 
 - Cabells The Source (https://blog.cabells.com/) 
+- Cabells Twitter Account (https://twitter.com/cabellspublish)
+Both platforms aim to "give academics and scholars tools to make smart decisions in journal evaluation."
 
 Articles:
 
