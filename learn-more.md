@@ -8,8 +8,8 @@ nav_order: 4
 Want to learn more about predatory publishing? Our co-presenters Neera Bhatnagar and Olga Perkovic recommend the following blog and set of articles, some of which were briefly mentioned in the workshop.
 
 Website: 
-- Cabells The Source (https://blog.cabells.com/) 
-- Cabells Twitter Account (https://twitter.com/cabellspublish)
+- Cabells The Source [https://blog.cabells.com/]
+- Cabells Twitter Account [https://twitter.com/cabellspublish]
 Both platforms aim to "give academics and scholars tools to make smart decisions in journal evaluation."
 
 Articles:
