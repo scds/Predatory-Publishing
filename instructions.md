@@ -6,9 +6,9 @@ nav_order: 3
 
 ## Workshop recording
 
-<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4ecc180a-38b8-4fc1-8a79-988f7f626ba1/public"></iframe> 
+<iframe height="480" width="853" allowfullscreen frameborder=0 src="https://echo360.ca/media/4ad59980-c19c-4322-b0dd-f0e01f7ac4ea/public"></iframe> 
 
-View the original video file [here](https://echo360.ca/media/4ecc180a-38b8-4fc1-8a79-988f7f626ba1/public).
+View the original video file [here](https://echo360.ca/media/4ad59980-c19c-4322-b0dd-f0e01f7ac4ea/public).
 
 Please note that at 40:57, Neera says "predatory publishing" when she is actually referring to "predatory conferences."
 
