@@ -1,4 +1,4 @@
-Predatory Publishing
+# Predatory Publishing
 
 Materials for the DMDS workshop: Predatory Publishing in the Era of Open Knowledge: Reducing the Odds of Falling Prey 
 
